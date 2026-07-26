@@ -110,7 +110,8 @@ Graph saved -> output/performance_ratio.png (982 rows plotted)
 
 _Add a screenshot of `output/performance_ratio.png` here._
 
-![Performance Ratio Evolution](output/performance_ratio.png)
+<img width="5364" height="2374" alt="performance_ratio" src="https://github.com/user-attachments/assets/576a1924-1a65-43e3-9602-db8e74dd8941" />
+
 
 ## Notes
 
