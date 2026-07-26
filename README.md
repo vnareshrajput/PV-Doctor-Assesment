@@ -106,9 +106,9 @@ Merged data saved -> output/merged_data.csv (982 rows)
 Graph saved -> output/performance_ratio.png (982 rows plotted)
 ```
 
-## Screenshots
+## Screenshot
 
-_Add a screenshot of `output/performance_ratio.png` here._
+
 
 <img width="5364" height="2374" alt="performance_ratio" src="https://github.com/user-attachments/assets/576a1924-1a65-43e3-9602-db8e74dd8941" />
 
